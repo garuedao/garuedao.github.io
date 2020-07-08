@@ -144,7 +144,7 @@ table {
 
 .home__name {
   position: relative;
-  top: 55%;
+  top: 65%;
   font-size: 5rem;
   padding-bottom: 1rem;
   margin-bottom: 1rem;
@@ -445,5 +445,6 @@ footer {
   text-align: right;
   padding: 1rem;
   color: #fff;
+  min-height: 50px;
 }
 /*# sourceMappingURL=main.css.map */
